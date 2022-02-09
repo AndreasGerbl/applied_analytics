@@ -1,5 +1,6 @@
-## Applied Analytics
+## Applied Analytics Dokumentation
 
-Dies ist die Github Page für die Applied Analytics Dokumentation.
+Dies ist die Dokumentation für das Projekt Applied Analytics.
 
-Auf GitHub befinden sich alle relevanten Inhalte.
+Auf Github befinden sich alle relevanten Inhalte.
+
