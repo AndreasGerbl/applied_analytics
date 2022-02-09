@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+- file: intro
+  sections:
+    - file: Datasets
+    - file: regression_doku
+    - file: classification_doku_final
+    - file: clustering_doku
+    - file: Referenzen
